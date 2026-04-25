@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(taskkill:*)",
+      "Bash(.venv/Scripts/python.exe:*)"
+    ]
+  }
+}

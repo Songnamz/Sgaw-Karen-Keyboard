@@ -1,0 +1,14 @@
+# S'gaw Karen Keyboard - Python Dependencies
+# ကညီကျိာ် — K'nyaw Keyboard
+
+# Keyboard input handling (Windows low-level hooks)
+keyboard>=0.13.5
+
+# System tray icon
+pystray>=0.19.5
+
+# Image processing (for tray icon)
+Pillow>=10.0.0
+
+# For building standalone .exe
+pyinstaller>=6.0.0
