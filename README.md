@@ -124,6 +124,4 @@ MIT License - Feel free to use and modify.
 - **Keyboard Layout**: Based on official KNU S'gaw Karen layout
 - **Unicode**: Myanmar Unicode Consortium
 
----
 
-**ကညီကျိာ်** - The First S'gaw Karen Keyboard for Windows! 🎉
